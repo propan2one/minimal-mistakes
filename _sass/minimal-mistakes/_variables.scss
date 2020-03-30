@@ -29,7 +29,7 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family: $sans-serif !default;
+$global-font-family: $Calibri !default;
 $header-font-family: $sans-serif !default;
 $caption-font-family: $serif !default;
 
@@ -145,7 +145,8 @@ $medium: 768px !default;
 $medium-wide: 900px !default;
 $large: 1024px !default;
 $x-large: 1280px !default;
-$max-width: $x-large !default;
+//$max-width: $x-large !default;
+$max-width: 1400px !default;
 
 /*
    Grid

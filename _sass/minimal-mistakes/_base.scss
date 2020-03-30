@@ -27,8 +27,8 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 2em 0 0.5em;
-  line-height: 1.2;
+  margin: 0 0 1.3rem;
+  line-height: 1.4;
   font-family: $header-font-family;
   font-weight: bold;
 }
@@ -154,6 +154,7 @@ kbd,
 samp,
 pre {
   font-family: $monospace;
+  font-size: 0.9em;
 }
 
 pre {
@@ -167,7 +168,7 @@ figcaption > code,
 td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
-  font-size: 0.8em;
+  font-size: 0.9em;
   background: $code-background-color;
   border-radius: $border-radius;
 
